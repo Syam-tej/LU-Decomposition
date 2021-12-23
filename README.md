@@ -61,11 +61,10 @@ print(x)
 
 ## Output:
 ### 1. To Find L and U matrices with LU Decomposition
-![Github Logo](SYAM_1.png)
+![Github Logo](SYAM_1.PNG)
 
 ### 2. To Find X matrix with LU Decomposition
-
-![Github Logo](syam_2.png)
+![Github Logo](syam_2.PNG)
 
 
 ## Result:
