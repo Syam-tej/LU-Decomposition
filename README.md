@@ -64,6 +64,7 @@ print(x)
 ![Github Logo](SYAM_1.png)
 
 ### 2. To Find X matrix with LU Decomposition
+
 ![Github Logo](syam_2.png)
 
 
